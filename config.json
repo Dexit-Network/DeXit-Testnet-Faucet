@@ -1,0 +1,16 @@
+{
+  "environment": "prod",
+  "debug": false,
+  "Captcha": {
+    "secret": "6LdodgkjAAAAAGWjk0pXoarxosHDAp56xnUGiUuK"
+  },
+  "Ethereum": {
+    "milliEtherToTransfer": 1000,
+    "gasLimit": "21000",
+    "prod": {
+      "rpc": "http://testnet.dexit.network",
+      "account": "0x1073a1a49DB9C305fb3227Fa02D810F3B7feeF53",
+      "privateKey": "f046718916d0a8efbca0c8106816c9695ad6af34ff2d13cffdb4f357defff1ac"
+    }
+  }
+}
